@@ -4,7 +4,7 @@ This project demonstrates the use of Recurrent Neural Networks (RNNs) to predict
 
 ## Overview
 
-Stock price prediction is a common application of RNNs in the field of time series forecasting. The goal is to use historical stock price data to predict future prices. In this project, we use a specific type of RNN known as Long Short-Term Memory (LSTM) to make these predictions.[code file...](https://github.com/VrajMalvi/Google-Stock-price-prediction/blob/main/Google_Stock_price_prediction_RNN_LSTM.ipynb)
+Stock price prediction is a common application of RNNs in the field of time series forecasting. The goal is to use historical stock price data to predict future prices. In this project, we use a specific type of RNN known as Long Short-Term Memory (LSTM) to make these predictions. [Code File.](https://github.com/VrajMalvi/Google-Stock-price-prediction/blob/main/Google_Stock_price_prediction_RNN_LSTM.ipynb)
 
 ## Procedure
 
