@@ -34,10 +34,8 @@ Stock price prediction is a common application of RNNs in the field of time seri
 
 ## Model Evaluation
 
-For regression problems like stock price prediction, we typically use metrics such as Root Mean Squared Error (RMSE) to evaluate the model's performance. However, in this project, we are more interested in the direction of the predictions rather than their absolute values.
+![Model Output Trend](https://github.com/VrajMalvi/Google-Stock-price-prediction/blob/main/picture/Screenshot%202023-12-01%20at%205.23.28%E2%80%AFPM.png)
+
+For regression problems like stock price prediction, we typically use metrics such as Root Mean Squared Error (RMSE) to evaluate the model's performance. However, in this project, we are more interested in the **direction of the predictions** rather than their absolute values.
 
 We want to check if our predictions follow the same directions as the real stock prices.
-
-## Getting Started
-
-To run this code, you need Python with libraries like NumPy, Pandas, Matplotlib, and Keras installed. The training and test datasets should be provided in CSV format.
