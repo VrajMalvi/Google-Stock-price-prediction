@@ -36,6 +36,4 @@ Stock price prediction is a common application of RNNs in the field of time seri
 
 ![Model Output Trend](https://github.com/VrajMalvi/Google-Stock-price-prediction/blob/main/picture/Screenshot%202023-12-01%20at%205.23.28%E2%80%AFPM.png)
 
-For regression problems like stock price prediction, we typically use metrics such as Root Mean Squared Error (RMSE) to evaluate the model's performance. However, in this project, we are more interested in the **direction of the predictions** rather than their absolute values.
-
-We want to check if our predictions follow the same directions as the real stock prices.
+In this model, our focus is on examining the trend of both the test and train data instead of relying solely on metrics like Root Mean Squared Error (RMSE). The graphical representation reveals that the predicted values align with the actual values, highlighting our emphasis on capturing the trend rather than evaluating based on RMSE scores.
